@@ -34,7 +34,11 @@
 </a>
 
 ## Commits
-
+ 
+ <a href="https://git.io/streak-stats">
+   <img height=180 align="Center" src="https://streak-stats.demolab.com/?user=Jabiii1&theme=black-ice" />
+ </a>
+ 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jabiii1/Jabiii1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jabiii1/Jabiii1/output/github-contribution-grid-snake.svg">
