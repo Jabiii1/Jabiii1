@@ -1,19 +1,31 @@
-## About Me
+## 😎 About Me:
 <br />
 <div align="center">
   <a href="https://github.com/Jabiii1/Jabiii1">
     <img src="https://github.com/Jabiii1/gif/blob/main/coding-typing.gif" alt="Logo" width="200" height="200">
-  </a>
+  </a></div>
+  Hi! My name is Jayvee, and I'm an Information Technology student at Dalubhasaan ng Lungsod ng Lucena👍🏻
   <br>
-</br></div>
+</br>
 
-  
-## My Stats 
+## ☕️ My Repositories:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Jabiii1&show_icons=true&theme=dark" />
+  <img height=200 width= 400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jabiii1&repo=ITCS102_Project&show_icons=true&theme=dark" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 width= 400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jabiii1&repo=Tkinter_Practice&show_icons=true&theme=dark" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 width= 400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jabiii1&repo=Mind-Reader-Project&show_icons=true&theme=dark" />
+</a>
+  
+  
+## 🌟 My Stats: 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Jabiii1&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jabiii1&theme=dark&layout=compact&langs_count=8&card_width=220" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jabiii1&theme=dark&layout=compact&langs_count=8&card_width=220" />
 </a>
 
 
