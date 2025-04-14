@@ -30,15 +30,10 @@
   <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Jabiii1&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="CENTER" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jabiii1&theme=dark&layout=compact&langs_count=8" />
+  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jabiii1&theme=dark&layout=compact&langs_count=8" />
 </a>
 
-## Commits
- 
- <a href="https://git.io/streak-stats">
-   <img height=180 align="Center" src="https://streak-stats.demolab.com/?user=Jabiii1&theme=black-ice" />
- </a>
- 
+## 💡 Commits:
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jabiii1/Jabiii1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jabiii1/Jabiii1/output/github-contribution-grid-snake.svg">
