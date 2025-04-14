@@ -9,14 +9,20 @@
 <br></br>
 <a href="https://git.io/typing-svg">
   <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=++Hi!+My+name+is+Jayvee%2C+Welcome+to+My+Github+Profile!" alt="Typing SVG"/></a>
-
- - 🎵 I’m interested in Music
- - 💻 I’m currently learning Python, HTML, and CSS
- - 📘 Currently studying at Dalubhasaan ng Lungsod ng Lucena
- - 📫 How to reach me: Jayveegarcia018@gmail.com
- - 🎸 Fun fact: I love playing Guitar
- - 💕 Paniii
+<h4>
   
+ - 🎵 I’m interested in Music
+  
+ - 💻 I’m currently learning Python, HTML, and CSS
+   
+ - 📘 Currently studying at Dalubhasaan ng Lungsod ng Lucena
+   
+ - 📫 How to reach me: Jayveegarcia018@gmail.com
+  
+ - 🎸 Fun fact: I love playing Guitar
+   
+ - 💕 Paniii
+  </h4>
   <br>
 </br>
 
