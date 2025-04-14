@@ -5,13 +5,16 @@
     <img src="https://github.com/Jabiii1/gif/blob/main/coding-typing.gif" alt="Logo" width="300" height="300">
   </a></div>
 
-  Hi! My name is Jayvee, and I'm an Information Technology student at Dalubhasaan ng Lungsod ng Lucena
+
+<br></br>
+<a href="https://git.io/typing-svg">
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=650&lines=++Hi!+My+name+is+Jayvee%2C+Welcome+to+My+Github+Profile!" alt="Typing SVG"/></a>
 
  - 🎵 I’m interested in Music
- - 💻  I’m currently learning Python,Html and CSS
+ - 💻 I’m currently learning Python, HTML, and CSS
+ - 📘 Currently studying at Dalubhasaan ng Lungsod ng Lucena
  - 📫 How to reach me: Jayveegarcia018@gmail.com
  - 🎸 Fun fact: I love playing Guitar
- - 🎮 Fun fact: I also love playing games (specially horror games)
  - 💕 Paniii
   
   <br>
@@ -34,6 +37,7 @@
 </a>
 
 ## 💡 Commits:
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Jabiii1/Jabiii1/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Jabiii1/Jabiii1/output/github-contribution-grid-snake.svg">
