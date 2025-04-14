@@ -22,18 +22,18 @@
 
 ## ☕️ My Repositories:
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width= 350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jabiii1&repo=ITCS102_Project&show_icons=true&theme=dark&show_owner=true" />
+  <img height=200 width= 400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jabiii1&repo=ITCS102_Project&show_icons=true&theme=dark&show_owner=true" />
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 width= 350 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jabiii1&repo=Tkinter_Practice&show_icons=true&theme=dark&show_owner=true" />
+  <img height=200 width= 400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jabiii1&repo=Tkinter_Practice&show_icons=true&theme=dark&show_owner=true" />
 </a>
   
 ## 🌟 My Stats: 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Jabiii1&show_icons=true&theme=dark" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Jabiii1&show_icons=true&theme=dark" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jabiii1&theme=dark&layout=compact&langs_count=8" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jabiii1&theme=dark&layout=compact&langs_count=8" />
 </a>
 
 ## 💡 Commits:
