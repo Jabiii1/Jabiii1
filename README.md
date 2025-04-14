@@ -1,3 +1,14 @@
+## About Me
+<br />
+<div align="center">
+  <a href="https://github.com/Jabiii1/Jabiii1">
+    <img src="https://github.com/Jabiii1/gif/blob/main/coding-typing.gif" alt="Logo" width="200" height="200">
+  </a>
+  <br>
+</br></div>
+
+  
+## My Stats 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Jabiii1&show_icons=true&theme=dark" />
 </a>
