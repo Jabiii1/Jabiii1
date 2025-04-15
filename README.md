@@ -31,6 +31,9 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 width= 400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jabiii1&repo=Tkinter_Practice&show_icons=true&theme=dark&show_owner=true" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 width= 400 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Jabiii1&repo=Tkinter_Simple_Survey&show_icons=true&theme=dark&show_owner=true" />
 </a>
   
 ## 🌟 My Stats: 
