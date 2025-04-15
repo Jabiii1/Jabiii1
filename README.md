@@ -1,5 +1,4 @@
 ## 😎 About Me:
-<br />
 <div align="center">
   <a href="https://github.com/Jabiii1/Jabiii1">
     <img src="https://github.com/Jabiii1/gif/blob/main/coding-typing.gif" alt="Logo" width="300" height="300">
