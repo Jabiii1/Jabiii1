@@ -45,4 +45,6 @@
 </a>
 
 ## 💡 Commits:
+<picture>
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Jabiii1/Jabiii1/output/github-contribution-grid-snake.svg" />
+</picture>
