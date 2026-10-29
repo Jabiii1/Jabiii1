@@ -20,7 +20,6 @@
   
  - 🎸 Fun fact: I love playing Guitar
    
- - 💕 Paniii
   </h4>
   <br>
 </br>
